@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 61,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T00:01:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Lawrence Times",
+      "title": "Avian flu detected in backyard flock in Douglas County - The Lawrence Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xakhvMGMycDRRZUdoNkF6WGVqOW5PWHZxTVlONXdlSW5jZkQ3aHMwd0JWMHRsdEcySGZvOElfcUVia29vdW1zMHNhWVFGVzdZU1p2anF2TFFFNjQwV2hBRFdtMDc?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09T23:40:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "WGAL Susquehanna Valley Pa.",
+      "title": "PA restaurant temporarily shuts down due to norovirus outbreak - WGAL Susquehanna Valley Pa.",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVhHVW1oVFNyVFNhRndscF90OHd6M2FFMm1mQVZvQkUtOFdpVXFOTTNqSTE5ejZ2NXd1RE1USmNfRzdSS0tqTWpQN0x2MTdPYV9JMXFuNC1vQ1NRZFc1WElJbzF0aG1WRU9vSkVURWdEcXBnTGdCNW40N3BQOFQ2aWlodUJ4MkF4d2N1eWUzejh3cGlNNGJTalY0akZ3S1hIQWdLSFZWVTRCa1U?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09T23:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Electrical and Calcium Signals Unite to Boost Brain Function - Neuroscience News",
+      "description": "Researchers have uncovered a groundbreaking mechanism called Electro-Calcium (E-Ca) coupling that integrates electrical and calcium signaling in brain capillaries.",
+      "url": "https://neurosciencenews.com/electro-calcium-coupling-neuroscience-28220/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/electrocalcium-coupling-neurosicence.jpg",
+      "publishedAt": "2024-12-09T21:41:26Z",
+      "content": "Summary: Researchers have uncovered a groundbreaking mechanism called Electro-Calcium (E-Ca) coupling that integrates electrical and calcium signaling in brain capillaries. This process ensures preci… [+7152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsmax"
+      },
+      "author": "Lynn C. Allison",
+      "title": "How Garlic Fights the Common Cold, Other Illnesses - Newsmax",
+      "description": "The health benefits of garlic are legion. The ancient Egyptians used garlic thousands of years ago to help bolster the energy and strength of laborers building the pyramids. In 1858, the French chemist Louis Pasteur, who identified that germs could cause dise…",
+      "url": "https://www.newsmax.com/health/health-news/garlic-age-supplement/2024/12/09/id/1190984/",
+      "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=48638f24-1f11-4644-9709-9003b54d97b9&SiteName=Newsmax",
+      "publishedAt": "2024-12-09T21:17:14Z",
+      "content": "The health benefits of garlic are legion. The ancient Egyptians used garlic thousands of years ago to help bolster the energy and strength of laborers building the pyramids. In 1858, the French chemi… [+2863 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "7 Things Everyone Should Know About Antidepressants - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQUXQ1bTN0SE1sTndjVkhtYlJPNGJodDkyVlp4THlLVUZrRm5Ud2ZBalk4UWxWYjh2bWY0dGE5VUdTN3llNktpZG9iNVRGT0pYem9mNmd5VlRVMlFqZWFiTXg2MnY0SjBFZ3FLYUNHNGpqelNKRDI4LU1R?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09T20:31:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Umn.edu"
+      },
+      "author": null,
+      "title": "Officials continue probe on DR Congo mystery illness - University of Minnesota Twin Cities",
+      "description": null,
+      "url": "https://www.cidrap.umn.edu/misc-emerging-topics/officials-continue-probe-dr-congo-mystery-illness",
+      "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/50293939632_dc0e1cea4f_c.jpg?itok=8EpZ5LBH",
+      "publishedAt": "2024-12-09T20:24:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Washington Post",
+      "title": "Age and the new weight-loss drugs - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOGxudENLNXQ1MDFJX21SakpjajJQdnhuRVpFQlhfZ3E4YXZSNkRvYlVNM2I4QjdfdFp2QVlHbXo3ZldGaWFzNS1zOElnR0wzVUh1THJJeGstZXZVOG0xUE81WGlBemFObnJVbnpnTDdKTVZpaUQyTFA0d1VEMVdoblJLb3FZeFRjY2Y2OGJ1MUk?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09T20:19:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Can We Program the Brain to Learn Without Teaching? - Neuroscience News",
+      "description": "Researchers have developed a groundbreaking technique to “write” new learning patterns directly into the brain using real-time neurofeedback from fMRI imaging.",
+      "url": "https://neurosciencenews.com/neurofeedback-learning-neuroscience-28219/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/neurofeedback-learning-neurosicence.jpg",
+      "publishedAt": "2024-12-09T19:52:56Z",
+      "content": "Summary: Researchers have developed a groundbreaking technique to write new learning patterns directly into the brain using real-time neurofeedback from fMRI imaging. Participants in the study learne… [+7921 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Slate",
+      "title": "I Want to Cut My Mother-in-Law Out of Our Lives Because of Her Very Offensive Lifestyle - Slate",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3B3dThpTmZkdnNIa2JIX1hPQWJfTk1wQlVEMGJhaVNScEUtcldWWGRJMFY2THVMOFBHMWRCdERRNnZHcWJDWTZ0RFVmS3dOVlZOT3NSdG9xa2RPalJvWFI2R3ctT1dicGg2b0NQQ1VhS2ljb0QwMmhfWkk0aE1fejR2aEFJNTVlbFJFUGRkNWs4d2k4S1Zr?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09T19:38:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Brain-Inspired AI Learns to Watch Videos Like a Human - Neuroscience News",
+      "description": "Researchers have developed MovieNet, an AI model inspired by the human brain, to understand and analyze moving images with unprecedented accuracy.",
+      "url": "https://neurosciencenews.com/brain-ai-video-watching-28218/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/brain-ai-video-watching-neurosicence.jpg",
+      "publishedAt": "2024-12-09T19:29:11Z",
+      "content": "Summary: Researchers have developed MovieNet, an AI model inspired by the human brain, to understand and analyze moving images with unprecedented accuracy. Mimicking how neurons process visual sequen… [+9249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "7-Day No-Sugar, High-Protein Meal Plan, Created by a Dietitian - EatingWell",
+      "description": "If you're looking to increase your protein intake and cut back on added sugar, this dietitian-created 7-day meal plan is right for you.",
+      "url": "https://www.eatingwell.com/7-day-no-sugar-high-protein-meal-plan-8758341",
+      "urlToImage": "https://www.eatingwell.com/thmb/8eJcCx-8H1hfM-W7hglD6D990GQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7-Day-No-Sugar-High-Protein-Meal-Plan-Created-by-a-Dietitian-b2baa7852b9a4584a58024be3d59d087.jpg",
+      "publishedAt": "2024-12-09T18:43:51Z",
+      "content": "Although desserts and sugar-sweetened drinks can be a part of a healthy diet, its easy to eat too much added sugar. Over time, this can increase your risk of chronic diseases like diabetes, heart dis… [+5875 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Earth.com",
+      "title": "Vinegar adds another surprising health benefit to its long list of perks - Earth.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRTZicTlhcEtKN2NuQWtGZVllQjZadTdCUGRKUWZObktfQjV2UlRMRUhFNFhyX3IxNmVIUnZVSmNfMVBPbFh0RUszTWZFODZQNmpGNnhnZFc1WXNTVWR4QmpmYTBZVXVpQm9zMHdJNWtqdUZwWmV0VENaWFU5WVJ5MDBRUkZ2aTlMeGZZZVJrTUxyQzR0UWcyT3BPUm5YYzFUcmlFV0trc0w5MXZkM3pLVjBjS0N4WWM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09T18:03:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": "Delthia Ricks",
+      "title": "Stomach cancer can be caused by a bacterium carried by half the people on Earth, but screening for it isn't easy - Medical Xpress",
+      "description": "In 1982, two Australian physician–scientists discovered a spiral-shaped bacterium whose form not only dictated its function, but its capacity to dwell in the human body's harshest chemical environment would help identify it as the cause of serious afflictions…",
+      "url": "https://medicalxpress.com/news/2024-12-stomach-cancer-bacterium-people-earth.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/stomach-1.jpg",
+      "publishedAt": "2024-12-09T18:00:01Z",
+      "content": "In 1982, two Australian physicianscientists discovered a spiral-shaped bacterium whose form not only dictated its function, but its capacity to dwell in the human body's harshest chemical environment… [+6879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Emily Cooke",
+      "title": "13 proteins tied to brain aging seem to spike at ages 57, 70 and 78 - Livescience.com",
+      "description": "A new study claims to have identified 13 proteins associated with either accelerated or decelerated brain aging. However, experts have questioned the practical implications of the findings.",
+      "url": "https://www.livescience.com/health/ageing/13-proteins-tied-to-brain-aging-seem-to-spike-at-ages-57-70-and-78",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rDEdYFGytRTSyYWyxecbi-1200-80.jpg",
+      "publishedAt": "2024-12-09T17:24:20Z",
+      "content": "Scientists have identified 13 proteins that may be linked to brain\r\n aging and could one day be targeted with anti-aging treatments.\r\nHowever, experts say that more research is needed to know exactly… [+4531 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Multiple Sclerosis News Today",
+      "title": "Cannabinoids can be effective MS spasticity treatment: Meta-analysis - Multiple Sclerosis News Today",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdldTYkJOeHJFS3NDQXhFaFhrWDFfamZ3VE11WkZiLTJBdEU0bm1Ga1QwbEQ2Nm5ieVduVkF2ZFFLb2g4MHdualVSQUNuNEF6WGVRVUpaU2dOLVpRcjJmZzFLVTczSGxzSDJVQThHS1B4bjVIbk1OMDdvd2k1ZDlFTVVQVm1rOS1IZ29EdE9QSlNkSHJnZ2duQkJwcG9sWHQ5SDlrb3RqOFBSb0Y2QkJhLXFERi1vUC1ZcldfLUxFRQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09T16:57:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Healthy Diet Linked to Reduced Chronic Pain - Neuroscience News",
+      "description": "Chronic pain, affecting millions worldwide, may be alleviated by adopting a healthy diet, according to new research.",
+      "url": "https://neurosciencenews.com/pain-diet-neurology-28211/",
+      "urlToImage": "https://neurosciencenews.com/files/2024/12/diet-pain-neurosicence.jpg",
+      "publishedAt": "2024-12-09T16:56:18Z",
+      "content": "Summary: Chronic pain, affecting millions worldwide, may be alleviated by adopting a healthy diet, according to new research. A new study found that eating more vegetables, fruits, grains, lean prote… [+5844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09T16:45:02Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-09T16:44:43Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Carly Stern",
+      "title": "I’m a neurosurgeon — my mom’s stew recipe boosts brain health and prevents dementia, but she makes it best - New York Post ",
+      "description": "Here’s some food for thought. Dr. Jonathan J. Rasouli, a board-certified spinal neurosurgeon at Northwell Health in New York, says his mom’s dinner recipe is full of ingredients that ar…",
+      "url": "https://nypost.com/2024/12/09/lifestyle/im-a-neurosurgeon-my-moms-stew-recipe-prevents-dementia/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/senior-woman-cooking-adding-spices-95073715.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-12-09T16:44:00Z",
+      "content": "Here’s some food for thought.\r\nDr. Jonathan J. Rasouli, a board-certified spinal neurosurgeon at Northwell Health in New York, says his mom’s dinner recipe is full of ingredients that are great for b… [+2803 chars]"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T00:01:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Inga Kiderra",
+      "title": "Dogs use two-word button combos to communicate, study shows - Phys.org",
+      "description": "A new study from UC San Diego's Comparative Cognition Lab shows that dogs trained to use soundboards to \"talk\" are capable of making two-word button combinations that go beyond random behavior or simple imitation of their owners. Published in the journal Scie…",
+      "url": "https://phys.org/news/2024-12-dogs-word-button-combos-communicate.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/dogs.jpg",
+      "publishedAt": "2024-12-09T22:00:01Z",
+      "content": "A new study from UC San Diego's Comparative Cognition Lab shows that dogs trained to use soundboards to \"talk\" are capable of making two-word button combinations that go beyond random behavior or sim… [+3964 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Eduardo Cuevas",
+      "title": "Can raw milk make you sick? Officials crack down amid bird flu fears. - Yahoo! Voices",
+      "description": "Research has shown the highest traces of bird flu virus detected on the cow are around its mammary glands and in the milk itself.",
+      "url": "https://www.usatoday.com/story/news/health/2024/12/08/raw-farm-quarantined-recall-raw-milk-bird-flu/76760105007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/05/14/USAT/73687462007-getty-images-1331816810.jpg?crop=3839,2159,x128,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2024-12-08T10:07:00Z",
+      "content": "Federal and state officials say pasteurized milk available in grocery stores is safe from bird flu but caution that raw milk is not.\r\nSo how do you know what you're drinking is safe?\r\nThe H5N1 bird f… [+9109 chars]"
+    }
+  ]
+}
